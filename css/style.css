@@ -12,7 +12,7 @@
 }
 .GC {
   display: grid;
-  grid-template-columns: auto auto auto auto auto auto ;
+  grid-template-columns: auto auto auto auto auto ;
 }
 .GR {
   display: grid;
