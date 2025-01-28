@@ -54,7 +54,7 @@
 }
 .AlignmentRaceSection {
   display: grid;
-  grid-template-columns: 2.5fr 1fr;
+  grid-template-columns: auto auto auto auto auto;
   grid-gap: 10px;
 
   
